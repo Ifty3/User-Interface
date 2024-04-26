@@ -1,1 +1,1 @@
-This is a user interface based on Java programe.
+This is a simple user interface based on Java programe.
